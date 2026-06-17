@@ -17,14 +17,14 @@
     "fortune"
   ],
   "license": "MIT",
-  "author": "",
-  "homepage": "https://github.com/your-username/terminal-toys#readme",
+  "author": "whatthemahad",
+  "homepage": "https://github.com/WhatTheMahad/terminal-toys#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/terminal-toys.git"
+    "url": "git+https://github.com/WhatTheMahad/terminal-toys.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/terminal-toys/issues"
+    "url": "https://github.com/WhatTheMahad/terminal-toys/issues"
   },
   "engines": {
     "node": ">=14"
