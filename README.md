@@ -81,7 +81,7 @@ $ touchgrass
 
 ## Why
 
-Stars don't come from utility. They come from identity — the things memorable enough that people screenshot them. These are built to be screenshotted.
+No one needs this, that's the point.
 
 ## Contributing
 
