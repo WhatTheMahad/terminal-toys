@@ -1,0 +1,43 @@
+{
+  "who": [
+    "the intern who left in 2019",
+    "a cosmic ray flipping a single bit",
+    "whoever wrote this before you (it was you)",
+    "the framework's 'helpful' defaults",
+    "an off-by-one error with commitment issues",
+    "the timezone. it's always the timezone",
+    "a rogue trailing whitespace",
+    "Greg from the platform team",
+    "the cache, which has never told the truth",
+    "a dependency that updated itself out of spite",
+    "the meeting that could have been an email",
+    "your past self at 2 AM",
+    "Daylight Saving Time and its many crimes",
+    "a YAML file with strong opinions on indentation",
+    "the one engineer who 'just made a small change'",
+    "Mercury, currently in retrograde",
+    "a flaky test pretending to be a real problem",
+    "the documentation, which lied",
+    "an emoji in a variable name",
+    "the load balancer having an existential crisis",
+    "a semicolon that wandered off",
+    "the staging environment, which is nothing like prod",
+    "whoever approved the PR without reading it",
+    "a feature flag left on over the weekend",
+    "the dark mode of the universe",
+    "an AI that was 'pretty sure' about the fix",
+    "the build cache from three commits ago",
+    "a leap second nobody asked for",
+    "the customer who clicked the button in a way nobody imagined",
+    "entropy. simply entropy."
+  ],
+  "verdicts": [
+    "Case closed. You are innocent.",
+    "Officially not your fault. Sleep easy.",
+    "The blame has been reassigned. Justice served.",
+    "Verdict: blameless. Frame this output.",
+    "You may now return to standup with a clear conscience.",
+    "Documented. If anyone asks, this is the official record.",
+    "The git log will never know the truth."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "yes": [
+    "Yes. The stars are unusually confident today.",
+    "Absolutely. Do it before you overthink it.",
+    "Yes, but don't tell anyone I told you.",
+    "The answer is yes. It was always yes.",
+    "Yes. The universe just nodded.",
+    "Yes — and you already knew that, didn't you?",
+    "Do it. Boldly. Recklessly. Yes.",
+    "Yes. This is the timeline where it works out.",
+    "The oracle says yes, then yawns confidently.",
+    "Yes. Fortune favors the slightly unhinged."
+  ],
+  "no": [
+    "No. Not today, not like this.",
+    "Absolutely not. The omens are wearing frowns.",
+    "No. And the oracle seems weirdly relieved.",
+    "No. Sit with that for a while.",
+    "The answer is no. The cosmos is sorry.",
+    "No — but it's the good kind of no.",
+    "Hard no. The tea leaves spelled it out.",
+    "No. Your ancestors are shaking their heads.",
+    "No. This door is not yours to open.",
+    "No, and you'll thank the oracle later."
+  ],
+  "maybe": [
+    "Unclear. The signal is full of static.",
+    "Ask again after a snack.",
+    "The oracle shrugs in an ancient language.",
+    "Maybe. The future is buffering.",
+    "It depends on a variable you haven't named yet.",
+    "The mist is thick. Try again at dawn.",
+    "Possibly. Possibly not. Possibly pizza.",
+    "The oracle flipped a coin and lost it.",
+    "Outcome uncertain. Vibes neutral.",
+    "Yes and no, in a way that will annoy you."
+  ]
+}

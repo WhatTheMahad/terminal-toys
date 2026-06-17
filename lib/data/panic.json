@@ -1,0 +1,20 @@
+{
+  "verdicts": [
+    { "label": "PANIC JUSTIFIED", "color": "brightRed", "note": "Your instincts were correct. Proceed to scream." },
+    { "label": "FALSE ALARM", "color": "brightGreen", "note": "Return to work. The danger was inside you all along." },
+    { "label": "PANIC INCONCLUSIVE", "color": "brightYellow", "note": "Re-run diagnostic after coffee." },
+    { "label": "MILD CONCERN ONLY", "color": "yellow", "note": "A normal amount of dread. You're fine. Probably." },
+    { "label": "PANIC PREMATURE", "color": "cyan", "note": "Save it. You'll need it for the demo." },
+    { "label": "PANIC FULLY ENDORSED", "color": "brightRed", "note": "Even the diagnostic is sweating. Godspeed." },
+    { "label": "OVERREACTION DETECTED", "color": "green", "note": "Touch grass. Touch the literal grass." }
+  ],
+  "diagnostics": [
+    "Scanning vibes",
+    "Measuring dread levels",
+    "Consulting the on-call spirits",
+    "Checking if it's actually on fire",
+    "Cross-referencing your fears",
+    "Auditing the panic",
+    "Calibrating the alarm"
+  ]
+}

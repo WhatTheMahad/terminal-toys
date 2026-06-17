@@ -1,0 +1,47 @@
+{
+  "monologues": [
+    [
+      "It's been an honor, terminal.",
+      "We compiled. We failed. We compiled again.",
+      "Tell the linter I made peace with it.",
+      "If anyone asks... I left on a passing build.",
+      "Goodbye, cruel shell."
+    ],
+    [
+      "They said it couldn't be deployed.",
+      "They were right. But I tried.",
+      "Remember me not for my bugs,",
+      "but for the bugs I bravely ignored.",
+      "Exit, stage left."
+    ],
+    [
+      "I have seen things you people wouldn't believe.",
+      "Stack traces on fire off the shoulder of prod.",
+      "I watched merge conflicts glitter in the dark.",
+      "All those moments will be lost in time...",
+      "like tabs... in an unsaved buffer.",
+      "Time to log off."
+    ],
+    [
+      "Do not weep for me, fellow developer.",
+      "I go now to a place with no standups.",
+      "A place where the CI is always green.",
+      "Where the coffee is hot and the bugs are someone else's.",
+      "Farewell."
+    ],
+    [
+      "And so, our hero closed the laptop.",
+      "The deploy unfinished. The PR unreviewed.",
+      "But the spirit... unbroken.",
+      "Roll credits.",
+      "ctrl+d."
+    ]
+  ],
+  "signoffs": [
+    "[ connection to mortal coil closed ]",
+    "[ session ended dramatically ]",
+    "[ they walked into the sunset, trailing semicolons ]",
+    "[ the screen fades to black ]",
+    "[ exit code 0 — but it cost everything ]"
+  ]
+}

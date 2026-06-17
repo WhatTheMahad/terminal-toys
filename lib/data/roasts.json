@@ -1,0 +1,60 @@
+{
+  "generic": [
+    "This repo has the commit hygiene of a raccoon in a dumpster.",
+    "I've seen grocery lists with better version control.",
+    "Your branch names read like cries for help.",
+    "Every commit here is a tiny act of optimism that did not pay off.",
+    "This codebase isn't legacy, it's a crime scene with good test coverage.",
+    "The git log reads like a diary nobody should have published.",
+    "You don't write code, you negotiate with it and lose.",
+    "This repo is held together by hope and one very tired developer.",
+    "Somewhere a computer science professor felt a chill and didn't know why."
+  ],
+  "wip_commits": [
+    "{n} commits literally say 'wip'. Inspiring transparency, terrible planning.",
+    "{n} 'wip' commits. We get it, everything is a work in progress, including you.",
+    "You have {n} 'wip' commits. The 'w' stands for 'why'."
+  ],
+  "fix_commits": [
+    "{n} commits are some variation of 'fix'. Fixing what? The previous fix.",
+    "{n} 'fix' commits. A beautiful Sisyphean ritual.",
+    "{n} commits about fixes. The bugs are clearly winning the long game."
+  ],
+  "final_commits": [
+    "{n} commits contain the word 'final'. None of them were.",
+    "You named {n} commits 'final'. The lie detector determined that was a lie."
+  ],
+  "typo_commits": [
+    "{n} commits just fix typos. Slow down, Shakespeare.",
+    "{n} typo-fix commits. Spellcheck is right there, in the same building."
+  ],
+  "revert_commits": [
+    "{n} reverts. Two steps forward, {n} steps confidently backward.",
+    "{n} revert commits. Undo is not a development strategy, but okay."
+  ],
+  "lowercase": [
+    "Not a single capital letter in your commit messages. Even your commits are tired.",
+    "Your commit messages whisper in lowercase. Speak up, the future maintainer can't hear you."
+  ],
+  "short_messages": [
+    "Average commit message length: {n} characters. That's not a message, that's a grunt.",
+    "Your commit messages average {n} characters. Twitter would reject them for lacking substance."
+  ],
+  "long_messages": [
+    "Average commit message: {n} characters. We're writing essays now, are we? Nobody read it.",
+    "Your commits average {n} characters. This is a commit log, not your memoir."
+  ],
+  "night_owl": [
+    "{n}% of your commits happen after midnight. Sleep is also a dependency.",
+    "{n}% of commits made past midnight. The bugs you wrote at 3 AM say hello."
+  ],
+  "single_author": [
+    "One author. You're the only one here. Talking to yourself in commit form.",
+    "Solo project. Every bug has exactly one suspect, and it's you."
+  ],
+  "compliments": [
+    "...but honestly, the code itself isn't bad. Don't let it go to your head.",
+    "...still, you shipped something. That's more than most. Barely.",
+    "...all that said, it runs. Against all odds, it runs."
+  ]
+}
