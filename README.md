@@ -90,6 +90,7 @@ The best PRs here are the easy ones: **add an excuse, a fortune, a roast, an ora
 ## Zero dependencies
 
 No runtime dependencies. Just Node ≥ 14. Fast to install, nothing to audit.
+Just plug and play.
 
 ## License
 
