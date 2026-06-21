@@ -2,7 +2,7 @@
 
 > Useless terminal commands with maximum personality.
 
-`cowsay`, `fortune`, `sl`, `cmatrix` — objectively useless, yet legendary. People install things that make them laugh. **terminal-toys** is a collection of tiny commands that do almost nothing, with style.
+Your terminal has feelings now.
 
 One install, a dozen toys.
 
