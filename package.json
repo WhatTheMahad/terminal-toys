@@ -42,7 +42,8 @@
     "touchgrass": "bin/touchgrass.js",
     "git-roast": "bin/git-roast.js",
     "blame-me": "bin/blame-me.js",
-    "dramaticexit": "bin/dramaticexit.js"
+    "dramaticexit": "bin/dramaticexit.js",
+    "feedback": "bin/feedback.js"
   },
   "files": [
     "bin",

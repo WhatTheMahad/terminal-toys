@@ -17,6 +17,7 @@ const toys = [
   ['git-roast', 'Reads your commit history and roasts you', 'git-roast'],
   ['blame-me', 'Find someone (or something) else to blame', 'blame-me'],
   ['dramaticexit', 'A theatrical farewell before you log off', 'dramaticexit'],
+  ['feedback', 'Like it? Star, share, or report a bug', 'feedback'],
 ];
 
 line();

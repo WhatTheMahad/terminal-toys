@@ -41,6 +41,7 @@ Run `terminal-toys` to see the whole menu.
 | `git-roast` | Reads your commit history and roasts you (run inside a repo). |
 | `blame-me [thing]` | Finds someone — or something — else to blame. |
 | `dramaticexit` | A theatrical farewell before you log off. |
+| `feedback` | Like it? Star, share, or report a bug. |
 
 Every toy accepts `--fast` to skip the animations (also auto-enabled when output is piped).
 
