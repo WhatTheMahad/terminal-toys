@@ -1,6 +1,6 @@
 {
   "name": "terminal-toys",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Useless terminal commands with maximum personality. coinflip, oracle, touchgrass, git-roast, and more.",
   "keywords": [
     "cli",
