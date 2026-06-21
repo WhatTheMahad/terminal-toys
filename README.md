@@ -87,7 +87,7 @@ No one needs this, that's the point.
 ## Contributing
 
 The best PRs here are the easy ones: **add an excuse, a fortune, a roast, an oracle answer.** The data lives in plain JSON under [`lib/data/`](lib/data/). Add a line, open a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
-Remember, Funny >
+Remember, Funny > clever
 
 ## Zero dependencies
 
