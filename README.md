@@ -39,6 +39,7 @@ Run `terminal-toys` to see the whole menu.
 | `procrastinator` | A to-do list of everything except your actual task. |
 | `touchgrass` | Analyzes your screen time and prescribes the outdoors. |
 | `git-roast` | Reads your commit history and roasts you (run inside a repo). |
+| `compliment` | The wholesome opposite of `git-roast`. |
 | `blame-me [thing]` | Finds someone — or something — else to blame. |
 | `dramaticexit` | A theatrical farewell before you log off. |
 | `feedback` | Like it? Star, share, or report a bug. |

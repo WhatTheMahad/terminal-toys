@@ -15,6 +15,7 @@ const toys = [
   ['procrastinator', 'Generate a list of things to avoid your task', 'procrastinator'],
   ['touchgrass', 'Analyzes your screen time and prescribes the outdoors', 'touchgrass'],
   ['git-roast', 'Reads your commit history and roasts you', 'git-roast'],
+  ['compliment', 'The wholesome opposite of git-roast', 'compliment'],
   ['blame-me', 'Find someone (or something) else to blame', 'blame-me'],
   ['dramaticexit', 'A theatrical farewell before you log off', 'dramaticexit'],
   ['feedback', 'Like it? Star, share, or report a bug', 'feedback'],
